@@ -1,0 +1,164 @@
+[
+    {
+      "titulo": "El Código Da Vinci",
+      "archivo": "libros/codigodavinci.pdf",
+      "imagen": "img/codigodavinci.jpg"
+    },
+    {
+      "titulo": "Caballo de Troya",
+      "archivo": "libros/Benitez, J.J. - Caballo de Troya.pdf",
+      "imagen": "img/Caballo de Troya.jpg"
+    },
+    {
+      "titulo": "Memorias De Mis Putas Tristes",
+      "archivo": "libros/Garcia Marquez Gabriel - Memorias De Mis Putas Tristes [doc].pdf",
+      "imagen": "img/memoria de mis putas.jpg"
+    },
+    {
+      "titulo": "El Libro Perdido de Enki",
+      "archivo": "libros/sitchin-zecharia-crc3b3nicas-de-la-tierra-5-el-libro-perdido-de-enki.pdf",
+      "imagen": "img/libro perdido de enki.jpg"
+    },
+    {
+        "titulo": "El Conflicto de los Siglos",
+        "archivo": "libros/El conflicto de los siglos.pdf",
+        "imagen": "img/el conflicto de los siglos.jpg"
+    },
+    {
+        "titulo": "El Martillo de las Brujas",
+        "archivo": "libros/Malleus maleficarum  El martillo de los brujos by Kramer, Heinrich Sprenger, Jakob (z-lib.org).pdf",
+        "imagen": "img/malleus maleficarum.jpg"
+    },
+    {
+        "titulo": "El Leon la Bruja y el Armario",
+        "archivo": "libros/01. El león, la bruja y el armario.pdf",
+        "imagen": "img/Las cronicas de narnia-El leon la bruja y el armario.jpg"
+    },
+    {
+        "titulo": "Juego de tronos (Canción de hielo y fuego)",
+        "archivo": "libros/1-Juego de tronos (Canción de hielo y fuego).pdf",
+        "imagen": "img/juego de tronos.jpg"
+    },
+    {
+        "titulo": "El mundo de Hielo y Fuego",
+        "archivo": "libros/El mundo de Hielo y Fuego.pdf",
+        "imagen": "img/El mundo de Hielo y Fuego.jpg"
+    },   
+    {
+        "titulo": "Choque de reyes",
+        "archivo": "libros/2- Choque de Reyes.pdf",
+        "imagen": "img/choque de reyes.jpg"
+    },
+    {
+        "titulo": "Tormenta de espadas",
+        "archivo": "libros/3-Tormenta de espadas II 2000 (750).pdf",
+        "imagen": "img/tormenta de espadas.jpg"
+    },
+    {
+        "titulo": "Festin de Cuervos",
+        "archivo": "libros/4-Festin de Cuervos.pdf",
+        "imagen": "img/festin de cuervos.jpg"
+    },
+    {
+        "titulo": "Danza de Dragones",
+        "archivo": "libros/5-Danza de Dragones.pdf",
+        "imagen": "img/danza de dragones.jpg"
+    },
+    {
+        "titulo": "libro de oro saint germain",
+        "archivo": "libros/El libro de oro de saint germain.pdf",
+        "imagen": "img/libro de oro saint germain.jpg"
+    },
+    {
+        "titulo": "la caverna de los antepasados",
+        "archivo": "libros/La_Caverna_De_Los_Antepasados.pdf",
+        "imagen": "img/la caverna de los antepasados.jpg"
+    },
+    {
+        "titulo": "el oro de los dioses",
+        "archivo": "libros/El Oro de los Dioses - Los Extraterrestres entre Nosotros.pdf",
+        "imagen": "img/el oro de los dioses.jpg"
+    },
+    {
+        "titulo": "angeles y demonios",
+        "archivo": "libros/Dan Brown - Angeles y demonios.pdf",
+        "imagen": "img/angeles y demonios.jpg"
+    },
+    {
+        "titulo": "de la tierra a la luna",
+        "archivo": "libros/De la Tierra a la Luna.pdf",
+        "imagen": "img/de la tierra a la luna.jpg"
+    },
+    {
+        "titulo": "Gatos Guerreros En Territorio Salvaje",
+        "archivo": "libros/1 - Gatos Guerreros En Territorio Salvaje.pdf",
+        "imagen": "img/En Territorio Salvaje.jpg"
+    },
+    {
+        "titulo": "Gatos Guerreros Fuego y Hielo",
+        "archivo": "libros/2 - Gatos Guerreros Fuego y Hielo.pdf",
+        "imagen": "img/hielo y fuego.jpg"
+    },
+    {
+        "titulo": "Gatos Guerreros El Bosque De Los Secretos",
+        "archivo": "libros/3 - Gatos Guerreros El Bosque De Los Secretos.pdf",
+        "imagen": "img/el bosque de los secretos.jpg"
+    },
+    {
+        "titulo": "Gatos Guerreros Antes De La Tormenta",
+        "archivo": "libros/4 - Gatos Guerreros Antes De La Tormenta.pdf",
+        "imagen": "img/antes de la tormenta.jpg"
+    },
+    {
+        "titulo": "Gatos Guerreros Huellas Peligrosas",
+        "archivo": "libros/5 - Gatos Guerreros Huellas Peligrosas.pdf",
+        "imagen": "img/huellas peligrosas.jpg"
+    },
+    {
+        "titulo": "Gatos Guerreros La Hora Mas Oscura",
+        "archivo": "libros/6 - Gatos Guerreros La Hora Mas Oscura.pdf",
+        "imagen": "img/la hora mas oscura.jpg"
+    },
+    {
+        "titulo": "Harry_Potter_y_la_piedra_filosofal_J_K_Rowling",
+        "archivo": "libros/Harry_Potter_y_la_piedra_filosofal_J_K_Rowling.pdf",
+        "imagen": "img/Harry_Potter_y_la_piedra_filosofal_J_K_Rowling.jpg"
+    },
+    {
+        "titulo": "Harry_Potter_y_la_camara_secreta_J_K_Rowling",
+        "archivo": "libros/Harry_Potter_y_la_camara_secreta_J_K_Rowling.pdf",
+        "imagen": "img/Harry_Potter_y_la_camara_secreta_J_K_Rowling.jpg"
+    },
+    {
+        "titulo": "Harry_Potter_y_el_prisionero_de_Azkaban_J_K_Rowling",
+        "archivo": "libros/Harry_Potter_y_el_prisionero_de_Azkaban_J_K_Rowling.pdf",
+        "imagen": "img/Harry_Potter_y_el_prisionero_de_Azkaban_J_K_Rowling.jpg"
+    },
+    {
+        "titulo": "Harry_Potter_y_el_caliz_de_fuego_J_K_Rowling",
+        "archivo": "libros/Harry_Potter_y_el_caliz_de_fuego_J_K_Rowling.pdf",
+        "imagen": "img/Harry_Potter_y_el_caliz_de_fuego_J_K_Rowling.jpg"
+    },   
+    {
+        "titulo": "Harry_Potter_y_la_Orden_del_Fenix_J_K_Rowling",
+        "archivo": "libros/Harry_Potter_y_la_Orden_del_Fenix_J_K_Rowling.pdf",
+        "imagen": "img/Harry_Potter_y_la_Orden_del_Fenix_J_K_Rowling.jpg"
+    },
+    {
+        "titulo": "Harry_Potter_y_el_misterio_del_principe_J_K_Rowling",
+        "archivo": "libros/Harry_Potter_y_el_misterio_del_principe_J_K_Rowling.pdf",
+        "imagen": "img/Harry_Potter_y_el_misterio_del_principe_J_K_Rowling.jpg"
+    },
+    {
+        "titulo": "Harry_Potter_y_las_Reliquias_de_la_Muerte_J_K_Rowling",
+        "archivo": "libros/Harry_Potter_y_las_Reliquias_de_la_Muerte_J_K_Rowling.pdf",
+        "imagen": "img/Harry_Potter_y_las_Reliquias_de_la_Muerte_J_K_Rowling.jpg"
+    },
+    {
+        "titulo": "Harry_Potter_y_el_legado_maldito_J_K_Rowling",
+        "archivo": "libros/Harry_Potter_y_el_legado_maldito_J_K_Rowling.pdf",
+        "imagen": "img/Harry_Potter_y_el_legado_maldito_J_K_Rowling.jpg"
+    }
+    
+  ]
+  
